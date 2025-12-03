@@ -5,7 +5,7 @@ example config
 ```----------
 return {
   {
-    dir = '~/workprojects/diagnostic-tools/',
+    'Gabriel2409/diagnostic-tools',
     name = 'diagnostic-tools',
     opts = {
       sources = {
